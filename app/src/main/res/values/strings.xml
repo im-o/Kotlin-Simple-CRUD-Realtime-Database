@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRUD Realtime Database</string>
+    <string name="nama_anda">Your Name</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="alamat_anda">Your Address</string>
+    <string name="str_umur">Age</string>
+</resources>
